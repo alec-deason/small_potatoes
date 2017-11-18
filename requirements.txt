@@ -1,0 +1,4 @@
+scipy
+numpy
+pandas
+-e git+git://github.com/ihmeuw/vivarium.git#egg=vivarium
